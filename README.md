@@ -1,9 +1,10 @@
 # mysql-connector-discord-bot
-pip install discord.py
 
-pip install python-dotenv
+    pip install discord.py
 
-pip install aiofiles
+ pip install python-dotenv
 
-pip install mysql-connector-python
+ pip install aiofiles
+
+ pip install mysql-connector-python
 
